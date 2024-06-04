@@ -1,12 +1,6 @@
 # FPS-Counter-For-Unity @IDJoshy // EphemeralJosh
 Simple implementation for a FPS counter on unity (use TMPro).
 
-## Support
-
-> Note: if you want to support me, everything is appreciated. 
-
-[![PayPal](https://www.paypalobjects.com/webstatic/mktg/logo/pp_cc_mark_37x23.jpg)](https://www.paypal.com/donate/?hosted_button_id=CKDP6QHVK6PMC)
-
 ## Features
 
 - Include a counter for FrameRate.
